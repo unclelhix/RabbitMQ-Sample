@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d+1yLmVVp9k3DnIFaUbLKZbEFBNUnhq2TNFzE2JnMN0=",
+  "Source": "HashGenerator.API",
+  "BasePath": "_content/HashGenerator.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

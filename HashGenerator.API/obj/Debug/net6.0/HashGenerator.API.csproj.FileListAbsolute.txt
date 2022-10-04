@@ -68,7 +68,6 @@ D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.API\obj\Debug\
 D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.API\obj\Debug\net6.0\HashGenerator.API.AssemblyInfoInputs.cache
 D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.API\obj\Debug\net6.0\HashGenerator.API.AssemblyInfo.cs
 D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.API\obj\Debug\net6.0\HashGenerator.API.csproj.CoreCompileInputs.cache
-D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.API\obj\Debug\net6.0\HashGenerator.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.API\obj\Debug\net6.0\HashGenerator.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.API\obj\Debug\net6.0\staticwebassets.build.json
 D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.API\obj\Debug\net6.0\staticwebassets.development.json

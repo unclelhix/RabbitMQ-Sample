@@ -45,24 +45,24 @@ namespace HashGenerator.API.Controllers
                 Parallel.Invoke(
                   () =>
                   {
-                      date = date.AddDays(1).AddHours(1).AddMinutes(1).AddMilliseconds(30);
-                      Process(hashToGenerate, date).Wait();
+                      var dateAdd = date.AddDays(1).AddHours(1).AddMinutes(5).AddMilliseconds(30);
+                      Process(hashToGenerate, dateAdd).Wait();
                   },
                   () =>
                   {
-                      date = date.AddDays(2).AddHours(2).AddMinutes(2).AddMilliseconds(30);
-                      Process(hashToGenerate, date).Wait();
+                      var dateAdd = date.AddDays(2).AddHours(2).AddMinutes(2).AddMilliseconds(30);
+                      Process(hashToGenerate, dateAdd).Wait();
 
                   },
                   () =>
                   {
-                      date = date.AddDays(3).AddHours(1).AddMinutes(2).AddMilliseconds(30);
-                      Process(hashToGenerate, date).Wait();
+                      var dateAdd = date.AddDays(3).AddHours(1).AddMinutes(2).AddMilliseconds(30);
+                      Process(hashToGenerate, dateAdd).Wait();
                   },
                   () =>
                   {
-                      date = date.AddDays(4).AddHours(5).AddMinutes(2).AddMilliseconds(30);
-                      Process(hashToGenerate, date).Wait();
+                      var dateAdd = date.AddDays(4).AddHours(3).AddMinutes(3).AddMilliseconds(30);
+                      Process(hashToGenerate, dateAdd).Wait();
                   }
                );
                await Task.Yield();
