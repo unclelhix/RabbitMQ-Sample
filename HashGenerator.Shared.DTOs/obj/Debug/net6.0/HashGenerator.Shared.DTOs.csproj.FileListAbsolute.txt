@@ -1,0 +1,15 @@
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\bin\Debug\net6.0\HashGenerator.Shared.DTOs.deps.json
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\bin\Debug\net6.0\HashGenerator.Shared.DTOs.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\bin\Debug\net6.0\HashGenerator.Shared.DTOs.pdb
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\bin\Debug\net6.0\HashGenerator.Models.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\bin\Debug\net6.0\HashGenerator.Models.pdb
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\HashGenerator.Shared.DTOs.csproj.AssemblyReference.cache
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\HashGenerator.Shared.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\HashGenerator.Shared.DTOs.AssemblyInfoInputs.cache
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\HashGenerator.Shared.DTOs.AssemblyInfo.cs
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\HashGenerator.Shared.DTOs.csproj.CoreCompileInputs.cache
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\HashGenerator.Shared.DTOs.csproj.CopyComplete
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\HashGenerator.Shared.DTOs.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\refint\HashGenerator.Shared.DTOs.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\HashGenerator.Shared.DTOs.pdb
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared.DTOs\obj\Debug\net6.0\ref\HashGenerator.Shared.DTOs.dll

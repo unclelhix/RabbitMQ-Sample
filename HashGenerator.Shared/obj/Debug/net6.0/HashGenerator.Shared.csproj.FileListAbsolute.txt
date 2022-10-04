@@ -1,0 +1,17 @@
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\bin\Debug\net6.0\HashGenerator.Shared.deps.json
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\bin\Debug\net6.0\HashGenerator.Shared.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\bin\Debug\net6.0\HashGenerator.Shared.pdb
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\bin\Debug\net6.0\HashGenerator.Models.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\bin\Debug\net6.0\HashGenerator.Shared.DTOs.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\bin\Debug\net6.0\HashGenerator.Shared.DTOs.pdb
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\bin\Debug\net6.0\HashGenerator.Models.pdb
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\HashGenerator.Shared.csproj.AssemblyReference.cache
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\HashGenerator.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\HashGenerator.Shared.AssemblyInfoInputs.cache
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\HashGenerator.Shared.AssemblyInfo.cs
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\HashGenerator.Shared.csproj.CoreCompileInputs.cache
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\HashGenerator.Shared.csproj.CopyComplete
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\HashGenerator.Shared.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\refint\HashGenerator.Shared.dll
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\HashGenerator.Shared.pdb
+D:\Sample Programming\Dotnet Core\SampleAppRabbitMQ\HashGenerator.Shared\obj\Debug\net6.0\ref\HashGenerator.Shared.dll
