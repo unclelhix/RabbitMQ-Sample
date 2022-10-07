@@ -3,6 +3,7 @@
 Written in C#,
 Asp.net Core (.net 6),
 EF Core Code First,
+Mapster,
 Clean Code Architecture,
 MediatR + CQRS Pattern,
 RabbitMQ
