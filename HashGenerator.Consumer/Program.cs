@@ -57,7 +57,7 @@ consumer.Received += async (model, ea) =>
 
     var message = JsonConvert.DeserializeObject<List<HashesDTO>>(body);
 
-    Thread.Sleep(1000);
+    Thread.Sleep(500);
 
     try
     {

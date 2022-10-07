@@ -63,7 +63,7 @@ namespace HashGenerator.API.Controllers
             return Ok();
         }
 
-        private async Task Process(int count, DateTime date) {                       
+        private async Task Process(int count, DateTime date) {    
 
             var result = _sha1Service.Generate(count, date);
 
