@@ -42,29 +42,17 @@ namespace HashGenerator.API.Controllers
            
             try
             {
-                Parallel.Invoke(
-                  () =>
-                  {
-                      var dateAdd = date.AddDays(1).AddHours(1).AddMinutes(5).AddMilliseconds(30);
-                      Process(hashToGenerate, dateAdd).Wait();
-                  },
-                  () =>
-                  {
-                      var dateAdd = date.AddDays(2).AddHours(2).AddMinutes(2).AddMilliseconds(30);
-                      Process(hashToGenerate, dateAdd).Wait();
+                Parallel.For(0, 4, i => {
+                    
+                    var dateAdd = date.AddDays(i).AddHours(i).AddMinutes(5+i).AddMilliseconds(30);
 
-                  },
-                  () =>
-                  {
-                      var dateAdd = date.AddDays(3).AddHours(1).AddMinutes(2).AddMilliseconds(30);
-                      Process(hashToGenerate, dateAdd).Wait();
-                  },
-                  () =>
-                  {
-                      var dateAdd = date.AddDays(4).AddHours(3).AddMinutes(3).AddMilliseconds(30);
-                      Process(hashToGenerate, dateAdd).Wait();
-                  }
-               );
+                    var thread = new Thread(()=>Process(hashToGenerate, dateAdd).Wait());
+
+                    thread.Start();
+
+                });
+
+                
                await Task.Yield();
             }
             catch (Exception ex)
@@ -76,8 +64,6 @@ namespace HashGenerator.API.Controllers
         }
 
         private async Task Process(int count, DateTime date) {                       
-
-            Thread.Sleep(1000);
 
             var result = _sha1Service.Generate(count, date);
 
